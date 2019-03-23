@@ -22,7 +22,6 @@ long measurement =TP_init();
 }
 
 long TP_init(){
-  delay(10);
   long measurement=pulseIn (vibr_Pin, HIGH);  //wait for the pin to get HIGH and returns measurement
   return measurement;
 }
