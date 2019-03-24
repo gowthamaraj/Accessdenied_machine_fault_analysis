@@ -48,14 +48,16 @@ while(1):
     
     if mn2<=2:
         print("normal")
-    else if mn2>=2 and mn2<3:
+    elif mn2>=2 and mn2<3:
         print("inner bearing")
         
-    else if mn2>=4 and mn2<5:
+    elif mn2>=4 and mn2<5:
         print("shaft misalighnment")
         
-    else if mn2>=5:
+    elif mn2>=5:
         print("looseness")
+    else:
         
+        print("unknown")
         
     client.write_points(json_body)
