@@ -13,11 +13,11 @@ The image of the belt is taken and it is converted into binary using the thresho
  
 2.sound/Noise - the concept of vibration can also be used for monitoring faults using sound.
 
-3. Computer Vision - for most of the visible part with visible cracks, we will be using CV for doing the analysis.
+3.Computer Vision - for most of the visible part with visible cracks, we will be using CV for doing the analysis.
 
 4.Temperature monitoring
 
-5. Open/Short - for the parts which are deep inside, we will stick a sheet of conducting material and will check the continuity of the sheets.
+5.Open/Short - for the parts which are deep inside, we will stick a sheet of conducting material and will check the continuity of the sheets.
 			1. It can be done by using RF transmission method
 	                2. It can be done by using a series of the conductor along with a source and Small leads.
 			
