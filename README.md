@@ -1,6 +1,8 @@
 # Accessdenied_machine_fault_analysis
 
-In this hackathon, we developed a software whcih can identify faults in machine by sound analysis - Frequency signature matching, and damaged belt by using OpenCV.
+In this hackathon, we developed a software which can identify faults in machine by sound analysis - Frequency signature matching, and damaged belt by using OpenCV.
+
+
 
 ## Damage Identification to belts or machinery:
 In recent years, much attention has been given to structural health monitoring technology to diagnose the condition of structures using a sensor attached to them, and the number of research projects on the health monitoring of architectural structures is on the rise. Most of the industrial machines and parts are bulky. They may cause the crack to the supporting parts of the rotating parts. in most cases, the crack can be identified with the help of sound and vibration, but it cannot point out where the crack has occurred. It cannot pinpoint where the crack has occurred. Hence to solve this we are going to implement different solutions for different parts of the system.
